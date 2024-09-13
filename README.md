@@ -1,4 +1,4 @@
-# hg_1_charliE
+# hg_1_charlie
 
 |      ALIAS   |       NAME   |  GITHUB    |
 |-------------|--------------|------------|        
